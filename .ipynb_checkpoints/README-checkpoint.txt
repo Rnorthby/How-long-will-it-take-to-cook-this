@@ -1,0 +1,1 @@
+The Models file contains the 2 models classification, the clouds file contains code to create the word cloud and the traing code used in developing the models and creating metrics.
